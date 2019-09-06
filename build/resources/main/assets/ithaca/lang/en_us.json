@@ -1,0 +1,7 @@
+{
+  "item.ithaca.forge": "Forge",
+  "block.ithaca.forge": "Forge",
+
+  "_comment": "Smelt minerals",
+  "itemGroup.ithaca": "Ithaca"
+}
